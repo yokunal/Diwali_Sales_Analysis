@@ -43,19 +43,22 @@ cd diwali-sales-analysis
 text
 
 2. (Optional) Create and activate a virtual environment:
+``` bash
 python -m venv env
-
+```
 Windows
+``` bash
 .\env\Scripts\activate
-
+```
 macOS/Linux
 source env/bin/activate
 
 text
 
 3. Install dependencies:
+``` bash
 pip install -r requirements.txt
-
+```
 text
 
 4. Launch Jupyter Notebook:
